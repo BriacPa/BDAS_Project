@@ -16,7 +16,7 @@ CryptoGraph is a Python-based graphical user interface (GUI) application designe
 
 Before running CryptoGraph, ensure that you have the required libraries installed. You can install them using `pip`:
 
-`pip install pillow pycryptodome`
+`pip install`
 
 - **tkinter**: For creating the graphical user interface.
 - **Pillow**: For image processing (opening, resizing, etc.).
@@ -25,7 +25,12 @@ Before running CryptoGraph, ensure that you have the required libraries installe
 
 ## How to Use
 
-### 1. Run the Application
+### Run the Application
 
-Start the application by running the `CryptoGraph.py` script:
+Start the application by running the `CryptoGraph.py` script
+
+## Requierment Diagram
+
+![Requierment Diagram](https://i.ibb.co/p1fMvLj/Requierment.png)
+
 
